@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\CabInvoice\bin\Debug\CabInvoice.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\CabInvoice\bin\Debug\CabInvoice.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\CabInvoice\bin\Debug\CabInvoice.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\CabInvoice\obj\Debug\CabInvoice.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\CabInvoice\obj\Debug\CabInvoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\CabInvoice\obj\Debug\CabInvoice.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\CabInvoice\obj\Debug\CabInvoice.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\CabInvoice\obj\Debug\CabInvoice.pdb

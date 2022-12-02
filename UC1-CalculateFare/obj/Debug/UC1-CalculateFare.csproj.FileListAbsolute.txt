@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\UC1-CalculateFare\bin\Debug\UC1-CalculateFare.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\UC1-CalculateFare\bin\Debug\UC1-CalculateFare.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\UC1-CalculateFare\bin\Debug\UC1-CalculateFare.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\UC1-CalculateFare\obj\Debug\UC1-CalculateFare.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\UC1-CalculateFare\obj\Debug\UC1-CalculateFare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\UC1-CalculateFare\obj\Debug\UC1-CalculateFare.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\UC1-CalculateFare\obj\Debug\UC1-CalculateFare.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\CabInvoice\UC1-CalculateFare\obj\Debug\UC1-CalculateFare.pdb
